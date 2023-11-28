@@ -1,0 +1,17 @@
+*__pycache__
+*.pyc
+*_julians_code
+*.env
+
+*.mat
+*.csv
+*.pt
+*.json
+*tb*
+*.m 
+*.zip
+*.DS_Store
+*.code-workspace
+*.sh
+
+*/reward_rates/
